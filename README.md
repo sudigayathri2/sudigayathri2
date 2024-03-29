@@ -4,4 +4,5 @@
 - 🌱 Exploring the MERN Stack, eager to collaborate!.
 - 📫 How to reach me :gayathrisudi2004@gmail.com
 - 😄 Pronouns: she/her
+  
 Let's team up to create cool projects using the latest tech!🚀
