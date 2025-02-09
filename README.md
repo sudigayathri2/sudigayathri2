@@ -1,6 +1,6 @@
 👋 Hi, I’m Gayathri
 
-- 🎓  I'm a 3nd-year student pursuing B.Tech in Computer Science and Business Systems at VNRVJIET, Hyderabad.
+- 🎓  I'm a 3rd-year student pursuing B.Tech in Computer Science and Business Systems at VNRVJIET, Hyderabad.
 - 🌱 Exploring the MERN Stack, eager to collaborate!.
 - 📫 How to reach me :gayathrisudi2004@gmail.com
 - 😄 Pronouns: she/her
